@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Hammam Alageed
 
-I'm a passionate full-stack developer specialized in building custom POS (Point of Sale) systems and real-time reporting dashboards using **Laravel**, **Electron.js**, and **JavaScript**.
+I’m a **Laravel developer** with expertise in building **scalable and efficient web applications**.  
+Passionate about **clean code**, **best architectural patterns**, and delivering **high-performance systems**.
 
 ---
 
