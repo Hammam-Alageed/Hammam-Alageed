@@ -7,7 +7,6 @@ I'm a passionate full-stack developer specialized in building custom POS (Point 
 ### 🧰 Tech Stack & Tools
 
 ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,17 +43,6 @@ A full-featured store and Laravel-based backend to manage everything.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammam-Alageed&show_icons=true&theme=tokyonight" alt="Hammam GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hammam-Alageed&theme=tokyonight" alt="Hammam GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammam-Alageed&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Contact Me
 
