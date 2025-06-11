@@ -30,7 +30,7 @@ A web-based dashboard and website for managing a Qur'anic school based in the Un
 
 ---
 
-#### 🔹 [hodhodMadina](https://github.com/HodHod-Al-madinah/hodhodMadina.git)  
+#### 🔹 [hodhodMadina](https://www.hodhod-madina.com/)  
 🛒 **Multilingual Online Store & Admin Dashboard**  
 A full-featured online store and control panel built with Laravel.
 
