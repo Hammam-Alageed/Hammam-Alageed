@@ -24,7 +24,6 @@ A web-based dashboard and website for managing a Qur'anic school based in the Un
 
 **Features:**
 - Manage classes, students, and teachers  
-- Arabic & English support  
 - Responsive design  
 - Attendance & performance tracking  
 - Admin-friendly UI
