@@ -6,25 +6,41 @@ I'm a passionate full-stack developer specialized in building custom POS (Point 
 
 ### 🔧 Tech Stack
 
-- ⚙️ **Backend**: Laravel 11, RESTful APIs, Repository-Service Pattern, Laravel Reverb
-- 💻 **Frontend**: Blade, jQuery, Tailwind CSS, Livewire
-- 📊 **Reports**: Dynamic POS reports for invoices, sales, items, and shifts
-- 🔄 **Integrations**: ZATCA e-Invoicing (Saudi Arabia), Tap Payments, Twilio API, PowerShell scripting
-- 🛠️ **Tools**: Git, GitHub Actions, Electron, SQLite, MySQL, Vite
-- 🌍 **Deployment**: Hostinger, IONOS, VPS with SSH + CI/CD setup
+- ⚙️ **Backend**: Laravel 11, RESTful APIs, Repository-Service Pattern, Laravel Reverb  
+- 💻 **Frontend**: Blade, jQuery, Tailwind CSS, Livewire  
+- 📊 **Reporting**: Dynamic POS reports for invoices, sales, items, and shifts  
+- 🔄 **Integrations**: ZATCA e-Invoicing (Saudi Arabia), Tap Payments, Twilio API, PowerShell scripting  
+- 🛠️ **Tools**: Git, GitHub Actions, Electron, SQLite, MySQL, Vite  
+- 🌍 **Deployment**: Hostinger, IONOS, VPS with SSH & CI/CD setup  
 
 ---
 
 ### 🚀 Projects I’ve Built
 
-- 🔹 **[mobiCashier](https://www.mobi-cashier.com)**  
-  Smart, Electron-based POS system with dynamic invoice handling and reporting
+#### 🔹 [connectthedots](https://connect-thedots.com/)  
+📚 **Qur'anic School Management System**  
+A web-based dashboard and website for managing a Qur'anic school based in the United States.
 
-- 🔹 **[hodhodMadina](https://github.com/HodHod-Al-madinah/hodhodMadina.git)**  
-  Full-featured multilingual online store with Laravel backend
+**Key Features:**
+- Online dashboard for managing classes, students, and teachers  
+- Arabic and English language support  
+- Clean, responsive design for desktop and mobile  
+- Attendance tracking, scheduling, and performance reports  
+- User-friendly interface for administrators and staff  
 
-- 🔹 **[connectthedots](https://connect-thedots.com/)**  
-  Web-based dashboard for digital service management
+---
+
+#### 🔹 [hodhodMadina](https://github.com/HodHod-Al-madinah/hodhodMadina.git)  
+🛒 **Multilingual Online Store & Admin Dashboard**  
+A full-featured online store and control panel built with Laravel.
+
+**Project Highlights:**
+- 🌐 Multilingual support (Arabic, English, etc.)  
+- 🧩 Modular system for managing stores, services, and offers  
+- 🖥️ Admin dashboard for full control over users and settings  
+- 📦 API-first backend to support mobile/web/desktop clients  
+- 📊 Real-time reports, coupons, and order management  
+- 🔐 Role-based access for admins, sellers, and service providers  
 
 ---
 
@@ -36,4 +52,5 @@ I'm a passionate full-stack developer specialized in building custom POS (Point 
 
 ---
 
-> 🧠 I build systems with performance, usability, and clarity in mind. Always learning. Always improving.
+> 🧠 I build systems with performance, usability, and clarity in mind.  
+> Always learning. Always improving.
