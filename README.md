@@ -4,14 +4,15 @@ I'm a passionate full-stack developer specialized in building custom POS (Point 
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tech Stack & Tools
 
-- ⚙️ **Backend**: Laravel 11, RESTful APIs, Repository-Service Pattern, Laravel Reverb  
-- 💻 **Frontend**: Blade, jQuery, Tailwind CSS, Livewire  
-- 📊 **Reporting**: Dynamic POS reports for invoices, sales, items, and shifts  
-- 🔄 **Integrations**: ZATCA e-Invoicing (Saudi Arabia), Tap Payments, Twilio API, PowerShell scripting  
-- 🛠️ **Tools**: Git, GitHub Actions, Electron, SQLite, MySQL, Vite  
-- 🌍 **Deployment**: Hostinger, IONOS, VPS with SSH & CI/CD setup  
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -21,26 +22,37 @@ I'm a passionate full-stack developer specialized in building custom POS (Point 
 📚 **Qur'anic School Management System**  
 A web-based dashboard and website for managing a Qur'anic school based in the United States.
 
-**Key Features:**
-- Online dashboard for managing classes, students, and teachers  
-- Arabic and English language support  
-- Clean, responsive design for desktop and mobile  
-- Attendance tracking, scheduling, and performance reports  
-- User-friendly interface for administrators and staff  
+**Features:**
+- Manage classes, students, and teachers  
+- Arabic & English support  
+- Responsive design  
+- Attendance & performance tracking  
+- Admin-friendly UI
 
 ---
 
-#### 🔹 [hodhodMadina](https://www.hodhod-madina.com/)  
+#### 🔹 [hodhodMadina](https://github.com/HodHod-Al-madinah/hodhodMadina.git)  
 🛒 **Multilingual Online Store & Admin Dashboard**  
-A full-featured online store and control panel built with Laravel.
+A full-featured store and Laravel-based backend to manage everything.
 
-**Project Highlights:**
-- 🌐 Multilingual support (Arabic, English, etc.)  
-- 🧩 Modular system for managing stores, services, and offers  
-- 🖥️ Admin dashboard for full control over users and settings  
-- 📦 API-first backend to support mobile/web/desktop clients  
-- 📊 Real-time reports, coupons, and order management  
-- 🔐 Role-based access for admins, sellers, and service providers  
+**Highlights:**
+- 🌐 Multilingual support  
+- 🧩 Modular services & offers management  
+- 📦 API-first backend (mobile/web clients)  
+- 📊 Live reporting, coupons, orders  
+- 🔐 Role-based access for admins/sellers  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammam-Alageed&show_icons=true&theme=tokyonight" alt="Hammam GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hammam-Alageed&theme=tokyonight" alt="Hammam GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammam-Alageed&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
