@@ -14,7 +14,7 @@ Passionate about clean code, best architectural patterns, and delivering high-pe
 🚀 Projects I’ve Built
 🔹 mobi-cashier.com
 💼 Smart Cashier & Reporting System
-A modern cashier system with real-time reports and a mobile-first design.
+A modern cashier system with real-time reports and a mobile-first interface.
 
 Highlights:
 
@@ -26,19 +26,19 @@ Highlights:
 
 🛠️ Built using React (frontend) + Laravel (API backend)
 
-📱 Fast, responsive, and optimized for mobile use
+📱 Fully responsive and optimized for mobile
 
 🔹 alageed.com
 🎓 Educational Content Platform
-A public platform for categorized educational videos and lectures.
+A platform to showcase educational video content and categorized playlists.
 
 Highlights:
 
-🧠 Dynamic video playlist manager
+🧠 Dynamic playlist system
 
-🔍 Category search & filtering
+🔍 Search and category filtering
 
-📺 Modal-based video previews
+📺 Modal video previews
 
 ⚙️ Built using Laravel Blade + Alpine.js
 
