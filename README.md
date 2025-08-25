@@ -1,9 +1,16 @@
 ## 👋 Hi, I'm Hammam Alageed
 
-I’m a **Laravel developer** with expertise in building **scalable and efficient web applications**.  
+I’m a **Team Leader & Senior Laravel Developer** with expertise in building **scalable and efficient web applications**.  
 Passionate about **clean code**, **best architectural patterns**, and delivering **high-performance systems**.
 
+### 👥 Leadership Snapshot
+- Lead and mentor **Flutter** and **Full-Stack** teams  
+- Set coding standards, run code reviews, and own delivery timelines  
+- Align architecture with business goals; ship **scalable, reliable** solutions
+
 ---
+
+
 
 ### 🧰 Tech Stack & Tools
 
